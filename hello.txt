@@ -3,8 +3,16 @@ byebye git
 hello python
 啦啦啦啦
 
+<<<<<<< HEAD
 r1修改一下
 
 VIP分支修改模拟
 
 VIP 测试服 模拟修改提交
+=======
+<<<<<<< HEAD
+r4 修改一次
+=======
+r1修改一下
+>>>>>>> df0d058c82505cdfe90a291268b162ad78c6091e
+>>>>>>> f85002e0d77fa0dc2b2bf48aeafb7899dd32c166
