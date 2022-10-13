@@ -3,4 +3,8 @@ byebye git
 hello python
 啦啦啦啦
 
+<<<<<<< HEAD
 r4 修改一次
+=======
+r1修改一下
+>>>>>>> df0d058c82505cdfe90a291268b162ad78c6091e
